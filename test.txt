@@ -1,5 +1,5 @@
 
 "Redhat Ansible for Configurations on AWS"
 
-"Redhat Ansible for Configurations on AWS"
+
 
