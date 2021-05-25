@@ -1,1 +1,1 @@
-"Redhat Ansible Configurations"
+"Redhat Ansible for Configurations"
