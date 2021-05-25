@@ -1,1 +1,1 @@
-"Redhat Ansible"
+"Ansible"
