@@ -1,5 +1,0 @@
-
-"Redhat Ansible for Configurations on AWS"
-
-
-
